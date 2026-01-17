@@ -1,12 +1,13 @@
 {
-    "id": 131364170,
+    "id": 57436521,
     "name": "SAMPLELEVEL2",
-    "author": "Corporatemonkey",
+    "author": "Solo_Creator",
     "creators": [],
-    "verifier": "Corporatemonkey",
-    "verification": "https://www.youtube.com/watch?v=V6Y12jswvEg",
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
-    "handcam": "not needed"
+    "password": "Free To Copy",
+    "handcam": "Required",
     "records": [
     ]
 }
